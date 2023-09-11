@@ -17722,6 +17722,7 @@
             <Game>Roboquest</Game>
         </Games>
         <URLs>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
             <URL>https://github.com/Gelmo/LiveSplit.Roboquest/raw/roboquest/Components/LiveSplit.RoboquestTimer.dll</URL>
             <URL>https://github.com/Gelmo/LiveSplit.Roboquest/raw/roboquest/Components/LiveSplit.Roboquest.dll</URL>
         </URLs>
